@@ -1,4 +1,4 @@
-package com.bookflow.book.modal.entity;
+package com.bookflow.book.model.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
